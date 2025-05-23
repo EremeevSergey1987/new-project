@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Привет, Мир!</p>
+    <h1>Привет, Мир!</h1>
+    <p>Как дела?</p>
 </body>
 </html>
